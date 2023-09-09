@@ -1,5 +1,6 @@
 # Anomaly_Detection
-data point that significantly deviates from the expected or normal behavior within a dataset. Anomalies are also commonly referred to as outliers or anomalies detection, and they can represent data points that are rare, unusual, or unexpected compared to the majority of the data.
+An anomaly, in the context of data analysis and machine learning, refers to an observation or data point that significantly deviates from the expected or normal behavior within a dataset. Anomalies are also commonly referred to as outliers or anomalies detection, and they can represent data points that are rare, unusual, or unexpected compared to the majority of the data.
+
 Anomalies can occur in various types of data, including numerical, categorical, and time-series data. Detecting anomalies is crucial in many applications, such as fraud detection, network security, quality control in manufacturing, medical diagnosis, and more. The identification of anomalies allows organizations to take corrective actions or investigate unusual events.
 
 Here are a few common examples of anomalies:
