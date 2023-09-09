@@ -10,4 +10,4 @@ Manufacturing Defects: In a production line, products with abnormal measurements
 
 Network Intrusions: Anomalous patterns of network traffic, such as an unusually high volume of data transfer or unusual access patterns, may indicate a security breach or cyberattack.
 
-Medical Diagnosis: In healthcare, abnormal patient test results, such as unusually high or low values for vital signs, can be indicative of health issues or diseases.
+Medical Diagnosis: In healthcare, abnormal patient test results, such as unusually high or low values for vital signs, can be indicative of health issues or diseases. 
